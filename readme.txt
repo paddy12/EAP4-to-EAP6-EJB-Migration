@@ -1,6 +1,6 @@
 
 
-1) Create the remote interface in code(EJBLocal in jboss 4).
+1) Create the remote interface in code(EJBLocal in jboss 6).
 
 package business.ejb.login;
 
